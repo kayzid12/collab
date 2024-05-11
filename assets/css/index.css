@@ -7,4 +7,12 @@
 }
 h1{
     color: red;
+    text-align: center;
+    font-family: cursive;
+    text-transform: uppercase;
+}
+i{
+    display: block;
+    text-align: center;
+    font-family: cursive;
 }
